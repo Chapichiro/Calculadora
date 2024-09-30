@@ -12,6 +12,7 @@ console.log(restar(1,1));
 function multi (a,b){
     return a * b;
 }
+<<<<<<< HEAD
 console.log(multi(10,1));
 
 function divi (a,b){
@@ -21,3 +22,6 @@ function divi (a,b){
         return a / b;
     }
 }
+=======
+console.log(multi(10,1));
+>>>>>>> 91e48b57a83c3fd0467dbec8eb8199cf723dcd01
